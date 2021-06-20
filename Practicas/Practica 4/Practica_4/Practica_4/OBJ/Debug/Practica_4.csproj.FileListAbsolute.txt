@@ -1,0 +1,6 @@
+C:\Users\Imperio Galactico\Desktop\Practica_4\Practica_4\bin\Debug\Practica_4.exe.config
+C:\Users\Imperio Galactico\Desktop\Practica_4\Practica_4\bin\Debug\Practica_4.exe
+C:\Users\Imperio Galactico\Desktop\Practica_4\Practica_4\bin\Debug\Practica_4.pdb
+C:\Users\Imperio Galactico\Desktop\Practica_4\Practica_4\obj\Debug\Practica_4.exe
+C:\Users\Imperio Galactico\Desktop\Practica_4\Practica_4\obj\Debug\Practica_4.pdb
+C:\Users\Imperio Galactico\Desktop\Practica_4\Practica_4\obj\Debug\Practica_4.csprojResolveAssemblyReference.cache

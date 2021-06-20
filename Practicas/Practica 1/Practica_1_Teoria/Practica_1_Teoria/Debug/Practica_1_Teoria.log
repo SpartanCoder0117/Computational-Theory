@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Practica_1_Teoria.cpp
+c:\users\jmaci_imqs5o4\desktop\practica_1_teoria\practica_1_teoria\practica_1_teoria.cpp(230): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\jmaci_imqs5o4\desktop\practica_1_teoria\practica_1_teoria\practica_1_teoria.cpp(275): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\jmaci_imqs5o4\desktop\practica_1_teoria\practica_1_teoria\practica_1_teoria.cpp(304): warning C4309: 'inicializando': truncamiento de valor constante
+  Practica_1_Teoria.vcxproj -> C:\Users\jmaci_imqs5o4\Desktop\Practica_1_Teoria\Debug\Practica_1_Teoria.exe
+  Practica_1_Teoria.vcxproj -> C:\Users\jmaci_imqs5o4\Desktop\Practica_1_Teoria\Debug\Practica_1_Teoria.pdb (Full PDB)

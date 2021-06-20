@@ -1,0 +1,6 @@
+C:\Users\Imperio Galactico\Desktop\Practica_3\Practica_3\obj\Debug\Practica_3.csprojResolveAssemblyReference.cache
+C:\Users\Imperio Galactico\Desktop\Practica_3\Practica_3\bin\Debug\Practica_3.exe.config
+C:\Users\Imperio Galactico\Desktop\Practica_3\Practica_3\bin\Debug\Practica_3.exe
+C:\Users\Imperio Galactico\Desktop\Practica_3\Practica_3\bin\Debug\Practica_3.pdb
+C:\Users\Imperio Galactico\Desktop\Practica_3\Practica_3\obj\Debug\Practica_3.exe
+C:\Users\Imperio Galactico\Desktop\Practica_3\Practica_3\obj\Debug\Practica_3.pdb
